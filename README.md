@@ -3,4 +3,15 @@
 
 ## Aprendendo essas linguagens:
 
-[![Minhas Linguagens](https://skillicons.dev)](https://skillicons.dev)
+<html>
+<body>
+  <span><kbd><b>HTML5</b></kbd></span>
+  <span><kbd><b>CSS3</b></kbd></span>
+  <span><kbd><b>JavaScript</b></kbd></span>
+  <span><kbd><b>Java</b></kbd></span>
+  <span><kbd><b>Python</b></kbd></span>
+  <span><kbd><b>C</b></kbd></span>
+  <span><kbd><b>C++</b></kbd></span>
+  <span><kbd><b>Portugol</b></kbd></span>
+</body>
+</html>
