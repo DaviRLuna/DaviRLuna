@@ -3,4 +3,6 @@
 
 ## Aprendendo essas linguagens:
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![Portugol](https://shields.io)
+🟩 **HTML5** &nbsp;&nbsp; 🟦 **CSS3** &nbsp;&nbsp; 🟨 **JavaScript** &nbsp;&nbsp; 🟧 **Java** &nbsp;&nbsp; 🐍 **Python** &nbsp;&nbsp; 🔵 **C** &nbsp;&nbsp; 🚀 **C++** &nbsp;&nbsp; 💻 **Portugol**
+
+---
