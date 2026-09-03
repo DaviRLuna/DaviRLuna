@@ -3,15 +3,4 @@
 
 ## Aprendendo essas linguagens:
 
-<html>
-<body>
-  <span><kbd><b>HTML5</b></kbd></span>
-  <span><kbd><b>CSS3</b></kbd></span>
-  <span><kbd><b>JavaScript</b></kbd></span>
-  <span><kbd><b>Java</b></kbd></span>
-  <span><kbd><b>Python</b></kbd></span>
-  <span><kbd><b>C</b></kbd></span>
-  <span><kbd><b>C++</b></kbd></span>
-  <span><kbd><b>Portugol</b></kbd></span>
-</body>
-</html>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![Portugol](https://shields.io)
