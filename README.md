@@ -3,4 +3,4 @@
 
 ## Aprendendo essas linguagens:
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![Portugol](https://shields.io)
+[![Minhas Linguagens](https://skillicons.dev)](https://skillicons.dev)
