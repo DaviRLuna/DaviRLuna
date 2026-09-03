@@ -3,6 +3,5 @@
 
 ## Aprendendo essas linguagens:
 
-🟩 **HTML5** &nbsp;&nbsp; 🟦 **CSS3** &nbsp;&nbsp; 🟨 **JavaScript** &nbsp;&nbsp; 🟧 **Java** &nbsp;&nbsp; 🐍 **Python** &nbsp;&nbsp; 🔵 **C** &nbsp;&nbsp; 🚀 **C++** &nbsp;&nbsp; 💻 **Portugol**
+🟧 **HTML** &nbsp;&nbsp; 🟦 **CSS** &nbsp;&nbsp; 🟨 **JS** &nbsp;&nbsp; 🤖 **Java** &nbsp;&nbsp; 🐍 **Python** &nbsp;&nbsp; 🧮 **C** &nbsp;&nbsp; 🎮 **C++** &nbsp;&nbsp; 🕹️ **Portugol**
 
----
