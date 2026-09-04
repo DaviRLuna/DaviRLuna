@@ -3,5 +3,4 @@
 
 ## Aprendendo essas linguagens:
 
-🟧 **HTML** &nbsp;&nbsp; 🟦 **CSS** &nbsp;&nbsp; 🟨 **JS** &nbsp;&nbsp; 🤖 **Java** &nbsp;&nbsp; 🐍 **Python** &nbsp;&nbsp; 🧮 **C** &nbsp;&nbsp; 🎮 **C++** &nbsp;&nbsp; 🕹️ **Portugol**
-
+![JavaScript](https://shields.io)
